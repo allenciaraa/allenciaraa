@@ -15,7 +15,7 @@ Software engineer with an M.S. in Computer Science (Big Data Systems) and B.S. i
 
 - **[Walden](https://github.com/allenciaraa/walden)** — 2D adventure game built from scratch in Java with no engine. Custom game loop, tilemap renderer, sprite animation, collision detection, and original pixel art and music.
 - **[Artificial Pancreas](https://github.com/allenciaraa/artificial-pancreas)** — ML pipeline for fetal glucose monitoring data: SVM classifier (87% CV accuracy), KMeans/DBSCAN clustering, full train/inference separation.
-- **[AIS Anomaly Detection](https://github.com/allenciaraa/ais-anomaly-detection)** — Negative selection algorithm for anomaly detection, a technique used in network intrusion detection systems. ROC/AUC evaluation across r-contiguous bit values.
+- **[AIS Anomaly Detection](https://github.com/allenciaraa/negsel-fhr-anomaly-detection)** — Negative selection algorithm for anomaly detection, a technique used in network intrusion detection systems. ROC/AUC evaluation across r-contiguous bit values.
 - **[StreamingChains](https://github.com/avgjoey23/CSE-540-Blockchain-Computing-Group-1)** — Decentralized digital media rights system using Ethereum smart contracts and W3C SSI standards, deployed on AWS EC2.
 
 ## Currently
