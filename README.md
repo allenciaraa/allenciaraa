@@ -24,4 +24,4 @@ Looking for software engineering roles (full-stack, backend, or security-adjacen
 
 ---
 
-_Open to connecting — feel free to reach out via [LinkedIn](https://linkedin.com/in/ciaraallen)_
+_Open to connecting — feel free to reach out via [LinkedIn](https://linkedin.com/in/ciarallen)_
